@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on small app project for streaming Anime
+Currently working on small app project for streaming Anime and Some mod for games
 
 
 ## 🌐 Socials:
